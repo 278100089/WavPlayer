@@ -1,3 +1,4 @@
+My Blog: http://elblogdeuninformaticocurioso.blogspot.com.es
 
 WavPlayer is a small program that is able to play a wav file in Linux , 
 but only works with older linux version , 

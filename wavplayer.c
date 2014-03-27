@@ -33,7 +33,7 @@ int main(int argc, char *argv[]){
 FILE *fileSound;
 int soundCard;
 
-        printf("Reproductor de sonido por Gabriel González\n\n");
+        printf("WavPlayer by Gabriel González\n\n");
         soundCard = open("/dev/dsp", O_WRONLY);
 
 
